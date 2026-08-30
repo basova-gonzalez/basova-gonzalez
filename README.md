@@ -1,13 +1,11 @@
-# Hi, I'm Kate
+# Ekaterina Básova González
 
-I'm a designer and photographer who found a new superpower in AI-assisted development. For years I had projects in my head that I couldn't build - hiring developers was too expensive, and I didn't have the coding skills. AI tools changed that.
+I build local-first tools that put AI to practical use — on-device
+inference, workflow automation, privacy by architecture rather than
+by promise.
 
-Now I build things myself. I'm drawn to projects where technology is scarce but the need is real, especially in communities that rarely get attention from the tech world.
+### Shipping now
 
-**What I'm working on:**
-
-🔭 **[patriarchia-calendar-parser](https://github.com/basova-gonzalez/patriarchia-calendar-parser)** - a tool that helps Orthodox clergy prepare their daily liturgical schedules. It parses official data from the Russian Patriarchate's website and exports it as a clean Word document, ready to print. Built with Python, FastAPI, and a lot of care for the people who'll actually use it. Live at [kateg.ru](https://kateg.ru).
-
-More projects are coming. This is just the beginning.
-
-**Earlier experiments and learning projects → [@Fabrichnaya](https://github.com/Fabrichnaya)**
+**[Local Dictation](https://github.com/basova-gonzalez/local-dictation-macos)**
+— on-device Russian dictation for macOS, powered by WhisperKit. Hold a
+hotkey, speak, get raw text. Source-only public alpha.
