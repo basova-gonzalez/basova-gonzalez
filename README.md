@@ -28,6 +28,8 @@ release source.
 Targets macOS 14+, source-only alpha under MIT, configured and verified for
 Russian.
 
+**[sandbox-print-kit](https://github.com/basova-gonzalez/sandbox-print-kit)** — a climbing gym needed a flyer, two posters and a style, so the next poster wouldn't start from scratch. Instead of three files the client got a kit: five layouts in five sizes, from DL to A3, with instructions clear enough for a staff member and an AI assistant to make a new poster without a designer. It shows every layout at once, a person picks by eye, and the kit checks the print mechanics: bleed, crop marks, fonts, QR codes. Demo brand; Node.js and Python, MIT. [Case study](https://kabago.ru/cases/sandbox-print/).
+
 **[patriarchia-calendar-parser](https://pravoslavna.ru)** — the Orthodox
 liturgical calendar is published one page per day. To assemble a month, a
 priest opened thirty pages one after another, copied each into a document
